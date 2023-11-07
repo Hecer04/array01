@@ -28,11 +28,11 @@
        
        // ÇALIŞMA--4
        
-       const array3 = [1, 2, 3, 4, 5, 6]
-       const newArray3 = []
-       for (let i = 0; i < array3.length; i++) {
-        if(array3[i] % 2 == 0){
-            newArray3.push(array3[i])
+       const array4 = [1, 2, 3, 4, 5, 6,7,8,9]
+       const newArray4 = []
+       for (let i = 0; i < array4.length; i++) {
+        if(array4[i] % 2 == 0){
+            yeniArray.push(array4[i])
         }
     }
     console.log(newArray3)
