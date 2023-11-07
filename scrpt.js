@@ -35,4 +35,4 @@
             yeniArray.push(array4[i])
         }
     }
-    console.log(newArray4)
+    console.log(yeniArray4)
