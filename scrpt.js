@@ -29,7 +29,7 @@
        // ÇALIŞMA--4
        
        const array4 = [1, 2, 3, 4, 5, 6,7,8,9]
-       const newArray4 = []
+       const yeniArray4 = []
        for (let i = 0; i < array4.length; i++) {
         if(array4[i] % 2 == 0){
             yeniArray.push(array4[i])
